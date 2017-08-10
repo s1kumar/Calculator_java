@@ -5,3 +5,10 @@
 This is *italic test*, **bold text**
 ~~strikethrough~~
 [Google search](https://google.com)
+* List Item 1
+* List Item 2
+  * List Item 2a
+  * List Item 2b
+1. Ordered List 1
+2. Ordered List 2
+  a. Ordered list 2a
