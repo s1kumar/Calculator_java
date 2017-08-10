@@ -29,5 +29,4 @@ This is *italic test*, **bold text**
 First Header|Second Header
 ------------ | -------------
 1A Cell | 1B  Cell
-
 2A Cell | 2B  Cell
