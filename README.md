@@ -16,7 +16,7 @@ This is *italic test*, **bold text**
   > It is impossible to tell the difference 
   > between someone who doesnt read and 
   > someone who cant
-  > -Anonymous 
+   -Anonymous 
   
   - [x] Generics
   - [x] Factory Design pattern
