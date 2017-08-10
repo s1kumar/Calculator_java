@@ -27,7 +27,7 @@ This is *italic test*, **bold text**
 @nehakapil84
 
 First Header|Second Header
--------------------------
-1A Cell. |1B 2 Cell
+------------ | -------------
+1A Cell | 1B  Cell
 
-2A Cell. |2B  Cell
+2A Cell | 2B  Cell
