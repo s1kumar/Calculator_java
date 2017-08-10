@@ -18,6 +18,6 @@ This is *italic test*, **bold text**
   > someone who cant
   > -Anonymous 
   
-  -[x] Generics
-  -[x] Factory Design pattern
-  -[] Markdown
+  - [x] Generics
+  - [x] Factory Design pattern
+  - [] Markdown
