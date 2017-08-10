@@ -4,3 +4,4 @@
 ### This is an h3 tag.
 This is *italic test*, **bold text**
 ~~strikethrough~~
+[Google search](https://google.com)
